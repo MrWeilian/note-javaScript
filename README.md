@@ -3,3 +3,4 @@
 > javaScript基础笔记<br>
 
 * [javaScript定时器](https://github.com/MrWeilian/note-javaScript/issues/1)<br>
+* [javaScript作用域](https://github.com/MrWeilian/note-javaScript/issues/2)<br>
