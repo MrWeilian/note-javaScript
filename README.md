@@ -10,3 +10,4 @@
 * [javaScript 关于this指向](https://github.com/MrWeilian/note-javaScript/issues/3)<br>
 * [JavaScript 执行机制](https://github.com/MrWeilian/note-javaScript/issues/4)<br>
 * [javaScript 原型](https://github.com/MrWeilian/note-javaScript/issues/5)<br>
+* [javaScript 继承](https://github.com/MrWeilian/note-javaScript/issues/6)<br>
