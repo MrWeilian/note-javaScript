@@ -12,3 +12,6 @@
 * [javaScript 原型](https://github.com/MrWeilian/note-javaScript/issues/5)<br>
 * [javaScript 继承](https://github.com/MrWeilian/note-javaScript/issues/6)<br>
 * [javaScript Object](https://github.com/MrWeilian/note-javaScript/issues/7)<br>
+
+> javaScript数据结构<br>
+* [javaScript Object](https://github.com/MrWeilian/note-javaScript/issues/8)<br>
