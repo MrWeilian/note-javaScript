@@ -14,4 +14,4 @@
 * [javaScript Object](https://github.com/MrWeilian/note-javaScript/issues/7)<br>
 
 > javaScript数据结构<br>
-* [javaScript Object](https://github.com/MrWeilian/note-javaScript/issues/8)<br>
+* [javaScript 列表](https://github.com/MrWeilian/note-javaScript/issues/8)<br>
