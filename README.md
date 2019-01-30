@@ -12,8 +12,11 @@
 * [javaScript 原型](https://github.com/MrWeilian/note-javaScript/issues/5)<br>
 * [javaScript 继承](https://github.com/MrWeilian/note-javaScript/issues/6)<br>
 * [javaScript Object](https://github.com/MrWeilian/note-javaScript/issues/7)<br>
-
+<br>
 > javaScript数据结构<br>
 * [javaScript 列表](https://github.com/MrWeilian/note-javaScript/issues/8)<br>
 * [javaScript 栈](https://github.com/MrWeilian/note-javaScript/issues/9)<br>
 * [javaScript 二叉树](https://github.com/MrWeilian/note-javaScript/issues/10)<br>
+<br>
+> javaScript小功能<br>
+* [javaScript 路由](https://github.com/MrWeilian/note-javaScript/issues/11)<br>
