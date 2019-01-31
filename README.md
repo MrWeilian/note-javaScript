@@ -22,5 +22,6 @@
 
 <br>
 
-> javaScript小功能<br>
+> javaScript开发相关<br>
 * [javaScript 路由](https://github.com/MrWeilian/note-javaScript/issues/11)<br>
+* [javaScript 模块化](https://github.com/MrWeilian/note-javaScript/issues/12)<br>
